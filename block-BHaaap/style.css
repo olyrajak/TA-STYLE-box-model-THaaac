@@ -1,0 +1,39 @@
+img {
+  border-radius: 20px;
+  /* box-shadow: 5px 2px 6px blue; */
+  margin-bottom: 20px;
+}
+
+.footer {
+  width: 99%;
+  background-color: #a1a1a1;
+  padding: 10px;
+}
+.footer_link {
+  border-bottom: 3px dashed blue;
+  margin-left: 10px;
+}
+body {
+  margin: 30px;
+}
+h1 {
+  border: 1px solid red;
+  font-size: 3rem;
+  background-color: #d18c1d;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+p {
+  height: 600px;
+  width: 400px;
+  border: 2px dotted black;
+  background-color: #d1d631;
+  margin-bottom: 20px;
+}
+.circle {
+  background-color: red;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  margin-bottom: 20px;
+}
