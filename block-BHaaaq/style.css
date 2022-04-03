@@ -1,0 +1,68 @@
+.f_box {
+  background-color: rgb(140, 10, 10);
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+section {
+  margin: 30px;
+}
+header {
+  margin-left: 30px;
+}
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.f_box2 {
+  background-color: rgb(140, 10, 10);
+  height: 100px;
+  width: 100px;
+  border: 4px double black;
+  display: inline-block;
+  margin: 10px;
+}
+.f_box3 {
+  background-color: rgb(140, 10, 10);
+  height: 100px;
+  width: 100px;
+  border: 4px dashed black;
+  display: inline-block;
+  margin: 10px;
+}
+.f_box4 {
+  background-color: rgb(140, 10, 10);
+  height: 100px;
+  width: 100px;
+  border: 4px dotted black;
+  display: inline-block;
+  margin: 10px;
+}
+.f_box5 {
+  background-color: rgb(140, 10, 10);
+  height: 100px;
+  width: 100px;
+  border: 4px black;
+  display: inline-block;
+  margin: 10px;
+}
+.big_box {
+  height: 350px;
+  color: white;
+  font-size: 15px;
+  width: 300px;
+  background-color: rgb(210, 0, 42);
+  margin-top: 30px;
+  margin-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: 15px solid rgb(85, 57, 186);
+  border-bottom: 15px solid yellow;
+  border-left: 15px solid green;
+  border-right: 15px solid grey;
+  outline: 28px solid rgb(94, 0, 94);
+}
