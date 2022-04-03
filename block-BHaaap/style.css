@@ -4,14 +4,10 @@ img {
   margin-bottom: 20px;
 }
 
-.footer {
-  width: 99%;
-  background-color: #a1a1a1;
-  padding: 10px;
-}
 .footer_link {
   border-bottom: 3px dashed blue;
   margin-left: 10px;
+  background-color: #a1a1a1;
 }
 body {
   margin: 30px;
